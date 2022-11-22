@@ -19,5 +19,5 @@ six==1.15.0
 sqlparse==0.3.1
 urllib3==1.25.9
 whitenoise==5.1.0
-Pillow==5.2.0
+Pillow==9.3.0
 importlib-metadata==1.6.0
